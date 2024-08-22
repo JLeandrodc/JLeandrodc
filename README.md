@@ -51,7 +51,7 @@ Projetos:`Projeto IEGM`, `Projeto GTS`
 </p>
 
 <p align="left">
-  <a href="mailto:leandrofrotadasilva@hotmail.com" title="Email">
+  <a href="mailto:leandrofrotadasilva@gmail.com" title="Email">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://linkedin.com/in/jose-leandro-frota-341193250" title="LinkedIn">
