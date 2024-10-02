@@ -51,12 +51,18 @@ Projetos:`Projeto IEGM`, `Projeto GTS`
 </p>
 
 <p align="left">
-  <a href="mailto:leandrofrotadasilva@gmail.com" title="Email">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://jleandrodc.github.io/portifolio/" title="Meu Site">
+    <img src="https://img.shields.io/badge/-Meu_Site-FF5733?style=flat-square&logo=google-chrome&logoColor=white" alt="Meu Site"/>
   </a>
+  
   <a href="https://linkedin.com/in/jose-leandro-frota-341193250" title="LinkedIn">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  
+  <a href="mailto:leandrofrotadasilva@gmail.com" title="Email">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
   <a href="https://wa.me/qr/BBMMZUWHO7MNK1" title="WhatsApp">
     <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
