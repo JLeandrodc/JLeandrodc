@@ -47,7 +47,7 @@ Projetos:`Projeto IEGM`, `Projeto GTS`
 </p>
 
 <p align="left">
-  
+  Entre em contato comigo😁👇
 </p>
 
 <p align="left">
